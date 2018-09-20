@@ -5,7 +5,7 @@ export default class HeaderComp extends Component {
   render() {
     return (
       <header className="header">
-        Header
+       checkout Header
       </header>
     );
   }
