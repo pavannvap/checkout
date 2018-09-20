@@ -14,7 +14,6 @@ if (__DEVELOPMENT__) {
   render(
     <Provider store={store}>
       <div>
-        <DevTools />
         <Routes />
       </div>
     </Provider>, document.getElementById('container'));
